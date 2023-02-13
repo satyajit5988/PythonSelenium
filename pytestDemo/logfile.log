@@ -1,0 +1,16 @@
+2023-01-05 17:19:20,849 :INFO : test_FixturesData : Satyajit
+2023-01-05 17:19:20,849 :INFO : test_FixturesData : More
+2023-01-05 17:42:53,734 :INFO : test_FixturesData : Satyajit
+2023-01-05 17:42:53,735 :INFO : test_FixturesData : More
+2023-01-05 17:45:54,400 :INFO : test_FixturesData : Satyajit
+2023-01-05 17:45:54,400 :INFO : test_FixturesData : More
+2023-01-05 17:45:54,407 :ERROR : pytestDemo.test_Logging : Error
+2023-01-05 17:45:54,407 :CRITICAL : pytestDemo.test_Logging : Critical
+2023-01-05 17:50:55,212 :INFO : test_FixturesData : Satyajit
+2023-01-05 17:50:55,212 :INFO : test_FixturesData : More
+2023-01-05 17:51:52,306 :INFO : test_FixturesData : Satyajit
+2023-01-05 17:51:52,306 :INFO : test_FixturesData : More
+2023-01-05 18:19:10,064 :INFO : test_FixturesData : Satyajit
+2023-01-05 18:19:10,064 :INFO : test_FixturesData : More
+2023-01-05 18:19:10,071 :ERROR : pytestDemo.test_Logging : Error
+2023-01-05 18:19:10,071 :CRITICAL : pytestDemo.test_Logging : Critical
